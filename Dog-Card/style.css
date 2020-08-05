@@ -35,6 +35,8 @@ main {
   padding: 45px 0px;
   padding-bottom: 30px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .top-navs {
   padding: 0 20px;
