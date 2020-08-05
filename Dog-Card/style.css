@@ -143,6 +143,8 @@ main {
   height: 45px;
   color: #ffffff;
   margin-left: 10px;
+  font-weight: 900;
+  font-size: 1.05em;
 }
 .fourth-sect div {
   display: flex;
